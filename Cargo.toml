@@ -1,0 +1,13 @@
+[workspace]
+members = ["day*"]
+resolver = "2"
+
+[workspace.package]
+authors = ["Nico Dinata <nicodnt@icloud.com>"]
+edition = "2021"
+publish = false
+readme = "README.md"
+repository = "https://github.com/ndinata/aoc23"
+
+[workspace.dependencies]
+anyhow = "1.0.75"
