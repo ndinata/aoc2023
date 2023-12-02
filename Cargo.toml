@@ -11,3 +11,5 @@ repository = "https://github.com/ndinata/aoc23"
 
 [workspace.dependencies]
 anyhow = "1.0.75"
+nom = "7.1.3"
+rstest = "0.18.2"
