@@ -5,6 +5,8 @@ resolver = "2"
 [workspace.package]
 authors = ["Nico Dinata <nicodnt@icloud.com>"]
 edition = "2021"
+homepage = "https://github.com/ndinata/aoc2023"
+license = "MIT"
 publish = false
 readme = "README.md"
 repository = "https://github.com/ndinata/aoc2023"
