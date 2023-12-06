@@ -1,11 +1,11 @@
 # advent of code 2023
 educational endeavour for me to:
-- generally practise writing Rust code more, and
+- continue practising using Rust to solve problems, and
 - more specifically skill up in writing text parsers
 
-some of the days' answers are inspired by https://github.com/ChristopherBiscardi/advent-of-code,
-from whom I'm grateful to have learned some neat iterator funcs like `find_map()`
-and `rfind()`, as well as how to actually use [`nom`](https://github.com/rust-bakery/nom).
+some of the earlier days' answers are inspired by https://github.com/ChristopherBiscardi/advent-of-code,
+from whom I'm grateful to have learned how to use [`nom`](https://github.com/rust-bakery/nom),
+and also for the exposure to neat crates like [`rstest`](https://github.com/la10736/rstest).
 
 
 ## how to run
